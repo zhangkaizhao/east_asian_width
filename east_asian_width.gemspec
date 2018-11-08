@@ -1,11 +1,11 @@
 Gem::Specification.new do |s|
   s.name        = 'east_asian_width'
-  s.version     = '0.0.1'
-  s.summary     = "East Asian Width"
-  s.description = "Get East Asian Width from a character."
-  s.authors     = ["Kaizhao Zhang"]
+  s.version     = '0.0.2'
+  s.summary     = 'East Asian Width'
+  s.description = 'Get East Asian Width from a character.'
+  s.authors     = ['Kaizhao Zhang']
   s.email       = 'zhangkaizhao@gmail.com'
-  s.files       = ["lib/east_asian_width.rb"]
+  s.files       = ['README.md', 'Rakefile', 'lib/east_asian_width.rb', 'test/test_east_asian_width.rb']
   s.homepage    = 'https://github.com/zhangkaizhao/east_asian_width'
   s.license     = 'MIT'
 
